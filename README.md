@@ -1,6 +1,6 @@
 <h1>Hi, I'm Sarah! </h1>
 
-<h2>👨‍💻 Application Development Projects:</h2>
+<h2>👨‍💻 Microsoft Visual Studio:</h2>
 
 - <b>C# (Desktop Applications)</b>
   - [Orion Constellation: Windows App Form Using Labels](https://github.com/SarahBagwell/OrionConstellation)
