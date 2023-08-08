@@ -3,11 +3,11 @@
 <h2>👨‍💻 Application Development Projects:</h2>
 
 - <b>C# (Desktop Applications)</b>
-  - [Workshop Selector - Windows App Form](https://github.com/SarahBagwell/WorkshopSelector)
-  - [Joe's Automotive Invoice - Windows App Form](https://github.com/SarahBagwell/JoesAutomotiveInvoice)
-  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+  - [Orion Constellation - Windows App Form Using Labels](https://github.com/SarahBagwell/OrionConstellation)
+  - [Workshop Selector - Windows App Form Using Switch Statements](https://github.com/SarahBagwell/WorkshopSelector)
+  - [Joe's Automotive Invoice - Windows App Form Using Methods](https://github.com/SarahBagwell/JoesAutomotiveInvoice)
 - <b>ASP.NET (HTML, C#, and CSS)</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Legen-Dairy Website - Blank Web Form Demo](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>👨‍💻Microsoft SQL Server Projects</h2>
 
