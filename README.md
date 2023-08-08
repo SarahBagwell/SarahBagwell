@@ -6,13 +6,13 @@
   - [Orion Constellation - Windows App Form Using Labels](https://github.com/SarahBagwell/OrionConstellation)
   - [Workshop Selector - Windows App Form Using Switch Statements](https://github.com/SarahBagwell/WorkshopSelector)
   - [Joe's Automotive Invoice - Windows App Form Using Methods](https://github.com/SarahBagwell/JoesAutomotiveInvoice)
-- <b>ASP.NET (HTML, C#, and CSS)</b>
+- <b>ASP.NET</b>
   - [Legen-Dairy Website - Blank Web Form Demo](https://github.com/SarahBagwell/Legen-DairyWebsite)
 
 <h2>👨‍💻Microsoft SQL Server Projects</h2>
 
-- <b>Entity Relationship Diagrams - Proof of Concept</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+- <b>Entity Relationship Diagram - Proof of Concept</b>
+  - [Cocoa Shop Group Project - ERD](https://i.imgur.com/j6AYO1W.png)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>MySQL Select Statements - Proof of Concept</b>
