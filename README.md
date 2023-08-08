@@ -16,7 +16,7 @@
 - <b>MSSQL Statements</b>
   - [CREATE](https://github.com/SarahBagwell/CreateMSSQL)
   - [INSERT](https://github.com/SarahBagwell/InsertMSSQL)
-  - [SELECT: Queries] ()
+  - [SELECT: Queries from Cocoa Shop Group Project](https://github.com/SarahBagwell/SelectMSSQL)
 
 
 <h2> 🤳 Connect with me:</h2>
