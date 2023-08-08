@@ -13,7 +13,7 @@
 
 - <b>Entity Relationship Diagram - Proof of Concept</b>
   - [Cocoa Shop Group Project: ERD Using Sample Data](https://i.imgur.com/JVmVM9d.png)
-- <b>MSSQL Statements - Proof of Concepts</b>
+- <b>MSSQL Statements</b>
   - [CREATE](https://github.com/SarahBagwell/CreateMSSQL)
   - [INSERT](https://github.com/SarahBagwell/InsertMSSQL)
   - [SELECT: Queries] ()
