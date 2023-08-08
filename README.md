@@ -4,7 +4,7 @@
 
 - <b>C# (Desktop Applications)</b>
   - [Workshop Selector - Windows App Form](https://github.com/SarahBagwell/WorkshopSelector)
-  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Joe's Automotive Invoice - Windows App Form](https://github.com/SarahBagwell/JoesAutomotiveInvoice)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>ASP.NET (HTML, C#, and CSS)</b>
   - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
