@@ -7,7 +7,7 @@
   - [Workshop Selector - Windows App Form Using Switch Statements](https://github.com/SarahBagwell/WorkshopSelector)
   - [Joe's Automotive Invoice - Windows App Form Using Methods](https://github.com/SarahBagwell/JoesAutomotiveInvoice)
 - <b>ASP.NET (HTML, C#, and CSS)</b>
-  - [Legen-Dairy Website - Blank Web Form Demo](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [Legen-Dairy Website - Blank Web Form Demo](https://github.com/SarahBagwell/Legen-DairyWebsite)
 
 <h2>👨‍💻Microsoft SQL Server Projects</h2>
 
