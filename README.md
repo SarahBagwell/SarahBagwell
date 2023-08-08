@@ -1,5 +1,10 @@
 <h1>Hi, I'm Sarah! </h1>
 
+<h2>About Me 💬</h2>  
+<p> Hello! As a student pursuing a Bachelors of Business Adminstration (BBA) majoring in Information Systems, I have a developed and growing technical background. Currently, I am a senior at the University of North Georgia in Dahlonega, GA. I have a passion for systems data and analysis, application development, and customer service via integrated platforms. I love to learn via continuing education and solving real-world problems. My experience includes employment as a Supervisor and Accountant at Kroger, Court Information Systems Intern at Hall County Courthouse, and Project Coordinator at 400 Ink. 
+</p>
+
+
 <h2>👨‍💻Microsoft SQL Server</h2>
 
 - <b>Entity Relationship Diagram - Proof of Concept</b>
