@@ -3,7 +3,7 @@
 <h2>👨‍💻 Application Development Projects:</h2>
 
 - <b>C# (Desktop Applications)</b>
-  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Workshop Selector - Windows App Form](https://github.com/SarahBagwell/WorkshopSelector)
   - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
   - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>ASP.NET (HTML, C#, and CSS)</b>
