@@ -9,13 +9,14 @@
 - <b>ASP.NET</b>
   - [Legen-Dairy Website - Blank Web Form Demo](https://github.com/SarahBagwell/Legen-DairyWebsite)
 
-<h2>👨‍💻Microsoft SQL Server Projects</h2>
+<h2>👨‍💻Microsoft SQL Server</h2>
 
 - <b>Entity Relationship Diagram - Proof of Concept</b>
   - [Cocoa Shop Group Project: ERD Using Sample Data](https://i.imgur.com/JVmVM9d.png)
 - <b>MSSQL Statements - Proof of Concepts</b>
   - [CREATE](https://github.com/SarahBagwell/CreateMSSQL)
   - [INSERT](https://github.com/SarahBagwell/InsertMSSQL)
+  - [SELECT: Queries] ()
 
 
 <h2> 🤳 Connect with me:</h2>
